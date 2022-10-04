@@ -1,7 +1,7 @@
 # Severinas De Quem?
-### Desingn desenvolvido no Design.Camp Afro
-#### 2022
+### Design desenvolvido no Design.Camp Afro
 ##### Codigo Desenvolvido para o Desafio do Eu Progr{amo}
+#### 2022
 
 ##
 
