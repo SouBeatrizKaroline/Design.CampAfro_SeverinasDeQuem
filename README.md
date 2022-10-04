@@ -1,0 +1,12 @@
+# Severinas De Quem?
+### Desingn desenvolvido no Design.Camp Afro
+#### 2022
+##### Codigo Desenvolvido para o Desafio do Eu Progr{amo}
+
+##
+
+### Fiz uso de
+<div style="display:inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
