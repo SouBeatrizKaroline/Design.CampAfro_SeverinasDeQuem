@@ -1,12 +1,25 @@
-# Severinas De Quem?
-### Design desenvolvido no Design.Camp Afro
-##### Codigo Desenvolvido para treinamento
-#### 2022
+# Severinas de Quem?
 
-##
+![preview](./img/readme/previa.png)
 
-### Fiz uso de
-<div style="display:inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 2022
+
+> Cesar School
+> Coque Connecta
+> Consulado dos Estados Unidos no Brasil
+
+Projeto desenvolvido durante o Design.Camp Afro
+
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/Design.CampAfro_SeverinasDeQuem/)
+
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- JS
+- Git e Github
+
+## 💙 Contato
+
+ebeatrizkcs@gmail.com
