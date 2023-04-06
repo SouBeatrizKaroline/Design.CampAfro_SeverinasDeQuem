@@ -25,7 +25,6 @@ Projeto desenvolvido durante o Design.Camp Afro
 
 - HTML
 - CSS
-- JS
 - Git e Github
 
 ## 💙 Contato
